@@ -1,4 +1,4 @@
-// store.js
+
 import { createStore } from 'redux';
 
 
